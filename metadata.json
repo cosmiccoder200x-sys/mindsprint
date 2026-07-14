@@ -1,0 +1,6 @@
+{
+  "name": "MindSprint",
+  "description": "An adaptive intelligence puzzle game that tests and rewards pattern recognition, spatial thinking, logic, memory, and cognitive flexibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
